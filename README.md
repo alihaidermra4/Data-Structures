@@ -14,8 +14,7 @@ This repository holds everything used to run the course: lesson content, diagram
 | **Level** | Undergraduate |
 | **Format** | Class & Laboratory (hands-on, twice weekly) |
 | **Programming language** | *C plus plus* |
-| **Textbook(s)** | Data Structures and Algorithms in C++ by Adam Drozdek, Data Structures and Algorithm Analysis in Java by Mark A. Weiss, Data Structures and Abstractions with Java by Frank M. Carrano & Timothy M. Henry , Data Structures and Algorithm Analysis in C++ by Mark Allen Weiss, Java Software Structures: Designing and Using Data Structures by John Lewis and Joseph Chase
- |
+| **Textbook(s)** | Data Structures and Algorithms in C++ by Adam Drozdek, Data Structures and Algorithm Analysis in Java by Mark A. Weiss, Data Structures and Abstractions with Java by Frank M. Carrano & Timothy M. Henry , Data Structures and Algorithm Analysis in C++ by Mark Allen Weiss, Java Software Structures: Designing and Using Data Structures by John Lewis and Joseph Chase|
 
 ---
 
